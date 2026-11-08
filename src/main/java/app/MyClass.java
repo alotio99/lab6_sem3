@@ -2,7 +2,7 @@ package app;
 
 import annotations.Repeat;
 
-public class Class {
+public class MyClass {
 
     // публичные методы
     public void publicMethodNoAnnotation() {
